@@ -1,0 +1,6 @@
+def cal_bill(cups, price_cup):
+   return cups * price_cup
+
+my_bill = cal_bill(5, 12)
+
+print(my_bill)
